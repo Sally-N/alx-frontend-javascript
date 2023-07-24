@@ -1,0 +1,28 @@
+{
+  "name": "alx-frontend-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "babel-jest": "^29.6.1",
+    "eslint": "^8.45.0",
+    "jest": "^29.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Sally-N/alx-frontend-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sally-N/alx-frontend-javascript/issues"
+  },
+  "homepage": "https://github.com/Sally-N/alx-frontend-javascript#readme"
+}

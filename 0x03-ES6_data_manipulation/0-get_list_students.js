@@ -1,4 +1,4 @@
-export function getListStudents () {
+export default function getListStudents() {
   let arrObj = [
     {
       "id": 1,
@@ -15,7 +15,7 @@ export function getListStudents () {
       "firstName": "Serena",
       "location": "San Francisco"
     }
-  ]
+  ];
 
   return arrObj;
 }

@@ -1,4 +1,4 @@
-export default function createInt8TpyedArray(length, number, value) {
+export default function createInt8TypedArray(length, number, value) {
   const buffer = new ArrayBuffer(length);
   const view = new DataView(buffer);
 

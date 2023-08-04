@@ -1,1 +1,1 @@
-Frontend Speialization Repo
+Frontend Specialization Repo
